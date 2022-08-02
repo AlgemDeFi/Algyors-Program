@@ -95,7 +95,7 @@ Please submit your contribution by creating an issue on this repository latest b
 
 **Report Format Example**
 
-Title: August 2022 Contribution
+Title: July 2022 Contribution
 
 Discord Username: @Dragomantis
 
