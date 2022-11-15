@@ -26,60 +26,33 @@ Algyors are the ambassadors of Algem through the universe of Dotsama, their miss
 - Being an active community member
 - Understand and share the vision and goal of Algem
 - Help and answer the community in our social media and community channels (Twitter, Telegram, Discord)
-- Create and manage local communities on Discord. Creating Telegram or Twitter local community are options but really appreciated.
-- Translate important news, content, and articles into your native language
-- Be transparent about your contributions and tasks
-
-### Extra Tasks
-- Organization of meetups and AMA for local communities
-- Creation of guides and tutorials to help the local communities to use Algem
-- Creation and management of local communities on Telegram and Twitter
-- Realization of video or podcast
-- Artistic contents (memes, music, graphics)
-- Personal initiative is highly valued
+- Moderate our social media (Discord, Twitter)
+- Translate and publish news, content and important articles on community channels.
+- Promote Algem in other Polkadot and crypto communities.
 
 ### How does the program work?
-1. There will be basic tasks and supplementary tasks every month.
-2. Basic tasks are mandatory and will be recurring.
-3. Supplementary tasks are optional, which you can do depending on your skills and talent. You can choose to do **up to 2** different supplementary tasks in a month. Each supplementary task will give extra rewards.
-4. At the end of each month, all Algyors must submit their contributions to Algem. Please share as many details as possible and any work or actions related to Algem. Everything will be rewarded.
-5. After the submission of tasks, the core team will evaluate the work done and distribute the rewards to the Algyors.
-6. The rewards for the Ambassador program are in ALGM and come from the community growth allocation.
 
-### Evaluation
+The program focuses on three main tasks for the ambassadors:
 
-When all contributions from Algyors have been submitted to Github or when the 7-day period is over, the Algaris will evaluate the work and involvement of every member of the program and will attribute them a score out of 50. This score is then used to calculate the ALGM token rewards for each Algyors.
+1) Provide help and support to users and moderate Algem's social networks (Discord & Twitter)
 
-Algaris value commitment to the program, involvement in the community, your area of expertise, transparency in your contributions, and highly value personal initiative.
+2) Translate into native language Algem news and updates shared in the announcement channel and publish them in the corresponding international community.
 
-The scoring criteria are defined in the following table:
+3) Each week, specific tasks will be assigned to Algyors that can range from specific translations (documentation, blog, app, etc) to local market research to conducting online workshops.
 
-### Basic Task (Mandatory)
-| ID | Description | Max Points |
-| --- | --- | --- |
-| Community Management | Help and answer the community in our social media and community channels (Twitter, Telegram, Discord). <br/> Create and manage local communities on Discord. <br/> Creating Telegram or Twitter local community are options but really appreciated. | 25 | 
-| Algem's envoy | Translate important news, content, and articles into your native language | 15 |
+At the end of each month, all Algyors will participate in a monthly call with Algem's core team to discuss Algem's goals and plans for the following month and share their feedback. Algyors will also fill out a monthly feedback form to self-assess their work and their community. 
 
-### Extra tasks (Choose up to 2 tasks/month)
-| ID | Description | Max Points |
-| --- | --- | --- |
-| Event Manager | Organization of meetups and AMA for local communities | 15 |
-| Content Creator | The Content Creator - Write an article or make a video about Algem. Content has to be ORIGINAL | 10 |
-| The Professor | Creation of guides and tutorials to help the local communities to use Algem | 10 |
-| The Producer | Realization of video or podcast | 15 |
-| The Artist | Artistic contents (memes, music, graphics) | 10 |
+The rewards for the Ambassador program are in nASTR & ALGM tokens and come from the community growth allocation and the dApp Staking developer rewards.
 
-For any other types of contribution that is not listed above, please reach out to the team.
+### Engagement:
+- Agree and accept [Algem’s rules](https://discord.com/channels/949531419619766332/994726247370334300/994727495263858708) and the ambassador guidelines.
+- Carry out daily and weekly assignments
+- Participate in the Monthly Algyors Meeting
+- Complete the monthly feedback and report.
 
-### Rewards
+### Compensation:
 
-Each month, Algem allocates 750 ALGM tokens to each ambassador of the program. This amount may change depending on the value of the ALGM token in the market after listing.
-
-The 750 ALGM tokens are the base reward. After the evaluation of the ambassador's contribution, his base reward is multiplied by his score, the result defining his total reward.
-
-*Example: <br/> Ambassador A has a score of 40/50, his total reward is (40/50 * 750) = 600 ALGM. <br/> Ambassador B has a score of 25/50, his total reward is (25/50 * 750) = 375 ALGM.*
-
-**Bonus:** Any rewards that are not distributed due to score will be pooled and distributed among all ambassadors who have a score above 40/50.
+Each month, Algem allocates 8500 nASTR & 600 ALGM tokens to each ambassador of the program until the listing of ALGM token on the market. After that, the reward will be only in ALGM tokens (amount can be changed depending on the market value of the ALGM).
 
 ## How to join the Algyors Program?
 
@@ -88,30 +61,3 @@ If you are ready to join the Algyors program, [complete the application form to 
 **We are looking forward to meeting you!**
 
 *We only accept active community members on Discord! Just joining the community is NOT enough. If you are not active you will be denied as Ambassador. Please know if you submit your application, you agree that you are part as an active community member and you understand Algem.*
-
-## Contributions report
-
-Please submit your contribution by creating an issue on this repository latest by the **7th day** of the following month. Any late submission will not be accepted.
-
-**Report Format Example**
-
-Title: July 2022 Contribution
-
-Discord Username: @Dragomantis
-
-Twitter Username: @Dragomantis
-
-EVM Wallet Address: 0xA139f379288996f613E15abC53ee8c3203E0331e
-
-**Contributions:**
-1. Community Management - Manage and support both Local and Main community chat.
-[add statistics here]
-
-2. VSM - Translated 5 articles
-[link to articles]
-
-3. The Producer - Made on video on Youtube
-[links to the Youtube video]
-
-4. The Professor - Wrote a tutorial
-[link to tutorial and statistics screenshot]
